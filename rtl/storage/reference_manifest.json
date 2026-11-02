@@ -1,0 +1,72 @@
+[
+    {
+        "file":  "fat32_file_streamer.v",
+        "reference":  "03第三方的课程资料/完赛篇/第七讲：FAT32文件系统升级/第6课_FAT32文件系统/fat32_file_streamer.v",
+        "source_sha256":  "4c6a91390d85caf2924eee29267e1bf6181c702e115c565105208e2213466595"
+    },
+    {
+        "file":  "fat32_volume_scanner.v",
+        "reference":  "03第三方的课程资料/完赛篇/第七讲：FAT32文件系统升级/第6课_FAT32文件系统/fat32_volume_scanner.v",
+        "source_sha256":  "a538b7acde4ba756e36672934bf74680c3d3ebeddae84dc448fd7fa6f06395ff"
+    },
+    {
+        "file":  "media_ingest_frontend.v",
+        "reference":  "03第三方的课程资料/完赛篇/第七讲：FAT32文件系统升级/第6课_FAT32文件系统/media_ingest_frontend.v",
+        "source_sha256":  "3e11e7d41e442000596b0e8eb24c694d94d119cd9bec35f581604078bd3e6d1b"
+    },
+    {
+        "file":  "media_ingest_pipeline.v",
+        "reference":  "03第三方的课程资料/完赛篇/第七讲：FAT32文件系统升级/第6课_FAT32文件系统/media_ingest_pipeline.v",
+        "source_sha256":  "1acfa3520ae878f60df7adc798b8c0f2a831506853443d34759c2ca785a41e61"
+    },
+    {
+        "file":  "media_storage_ingest_top.v",
+        "reference":  "03第三方的课程资料/完赛篇/第七讲：FAT32文件系统升级/第6课_FAT32文件系统/media_storage_ingest_top.v",
+        "source_sha256":  "26c0585f4ab637ab43a98bbaa5cdfa8bb2c6f0ab2f4f05e9e2865e5f84175d5c"
+    },
+    {
+        "file":  "sd_media_service.v",
+        "reference":  "03第三方的课程资料/完赛篇/第七讲：FAT32文件系统升级/第6课_FAT32文件系统/sd_media_service.v",
+        "source_sha256":  "4aff86edf8c00e020db06d11435beb151534a49abe621c452d37964afb4fabab"
+    },
+    {
+        "file":  "sd_sector_replay_buffer.v",
+        "reference":  "03第三方的课程资料/完赛篇/第七讲：FAT32文件系统升级/第6课_FAT32文件系统/sd_sector_replay_buffer.v",
+        "source_sha256":  "0944caa2706c614f1ef0d9e83da52174fc34df516ed77a242f6ca17264e7e3a9"
+    },
+    {
+        "file":  "sd_spi_byte_engine.v",
+        "reference":  "03第三方的课程资料/完赛篇/第七讲：FAT32文件系统升级/第6课_FAT32文件系统/sd_spi_byte_engine.v",
+        "source_sha256":  "0ff2a1f17f3b3955ee1e45ce5d28d16dea57f17ea19a2b7335d6e12067c5d417"
+    },
+    {
+        "file":  "sd_spi_command.v",
+        "reference":  "03第三方的课程资料/完赛篇/第七讲：FAT32文件系统升级/第6课_FAT32文件系统/sd_spi_command.v",
+        "source_sha256":  "0c82828a34b6d3130fbdfc16bc27fc910b6c8bdc48888df71b5a58f66c76d2a4"
+    },
+    {
+        "file":  "sd_spi_init.v",
+        "reference":  "03第三方的课程资料/完赛篇/第七讲：FAT32文件系统升级/第6课_FAT32文件系统/sd_spi_init.v",
+        "source_sha256":  "b4f9b8e1b2523c86c5cf1c9ee0977f11babc60886012f34fb217158690f4cfc2"
+    },
+    {
+        "file":  "sd_spi_sector_reader.v",
+        "reference":  "03第三方的课程资料/完赛篇/第七讲：FAT32文件系统升级/第6课_FAT32文件系统/sd_spi_sector_reader.v",
+        "source_sha256":  "fd59a14bf6a2a66d3e7ffd2a442bc456ce3b47e1632f8401d1883f5c6fab6133"
+    },
+    {
+        "file":  "bmp24_decoder.v",
+        "reference":  "03第三方的课程资料/完赛篇/第五讲：系统稳定性/第4课_系统稳定性/bmp24_decoder.v",
+        "source_sha256":  "06b246de39d973f411b7c10e82a1897ad7fa44773446e5de84eb41260fcf5bff"
+    },
+    {
+        "file":  "flash/w25q64_record_store.v",
+        "reference":  "03第三方的课程资料/完赛篇/第五讲：系统稳定性/第4课_系统稳定性/w25q64_record_store.v",
+        "source_sha256":  "93f95bd98962e360b72dddc0acef5999fb1eef8bc23ba16b20433e78c0a3f69a"
+    },
+    {
+        "file":  "flash/w25q64_preflight_reader.v",
+        "reference":  "03第三方的课程资料/完赛篇/第五讲：系统稳定性/第4课_系统稳定性/w25q64_preflight_reader.v",
+        "source_sha256":  "42268808045584d4e3fc7572fbc3b5881431da161dfb0a2b30e70d2bba1fa9d5"
+    }
+]

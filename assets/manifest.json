@@ -1,0 +1,44 @@
+[
+  {
+    "file": "PIC1.BMP",
+    "width": 640,
+    "height": 480,
+    "format": "24-bit uncompressed bottom-up BMP",
+    "bytes": 921654
+  },
+  {
+    "file": "PIC2.BMP",
+    "width": 800,
+    "height": 600,
+    "format": "24-bit uncompressed bottom-up BMP",
+    "bytes": 1440054
+  },
+  {
+    "file": "PIC3.BMP",
+    "width": 640,
+    "height": 480,
+    "format": "24-bit uncompressed bottom-up BMP",
+    "bytes": 921654
+  },
+  {
+    "file": "PIC4.BMP",
+    "width": 480,
+    "height": 360,
+    "format": "24-bit uncompressed bottom-up BMP",
+    "bytes": 518454
+  },
+  {
+    "file": "PIC5.BMP",
+    "width": 640,
+    "height": 480,
+    "format": "24-bit uncompressed bottom-up BMP",
+    "bytes": 921654
+  },
+  {
+    "file": "PIC6.BMP",
+    "width": 640,
+    "height": 480,
+    "format": "24-bit uncompressed bottom-up BMP",
+    "bytes": 921654
+  }
+]
